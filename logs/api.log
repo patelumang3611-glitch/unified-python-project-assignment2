@@ -1,0 +1,29 @@
+2025-11-06 17:39:09,200 - INFO - GET / - Request received - payload: None
+2025-11-06 17:39:09,203 - INFO - GET / - Response: 404 - time_ms: 2.30
+2025-11-06 17:39:09,418 - INFO - GET /favicon.ico - Request received - payload: None
+2025-11-06 17:39:09,419 - INFO - GET /favicon.ico - Response: 404 - time_ms: 0.58
+2025-11-06 17:39:59,763 - INFO - GET / - Request received - payload: None
+2025-11-06 17:39:59,764 - INFO - GET / - Response: 404 - time_ms: 0.91
+2025-11-06 17:41:26,202 - INFO - GET / - Request received - payload: None
+2025-11-06 17:41:26,202 - INFO - GET / - Response: 404 - time_ms: 0.57
+2025-11-06 17:43:09,463 - INFO - GET / - Request received - payload: None
+2025-11-06 17:43:09,464 - INFO - GET / - Response: 404 - time_ms: 0.81
+2025-11-06 17:51:34,897 - INFO - GET / - Request received - payload: None
+2025-11-06 17:51:34,898 - INFO - GET / - Response: 404 - time_ms: 0.73
+2025-11-06 17:53:24,682 - INFO - GET / - Request received - payload: None
+2025-11-06 17:53:24,682 - INFO - GET / - Response: 404 - time_ms: 0.65
+2025-11-06 17:53:33,948 - INFO - GET / health - Request received - payload: None
+2025-11-06 17:53:33,948 - INFO - GET / health - Response: 404 - time_ms: 0.66
+2025-11-06 17:54:27,970 - INFO - GET /health - Request received - payload: None
+2025-11-06 17:54:27,971 - INFO - GET /health - Response: 200 - time_ms: 1.74
+2025-11-06 17:55:22,999 - INFO - GET /docs - Request received - payload: None
+2025-11-06 17:55:23,000 - INFO - GET /docs - Response: 200 - time_ms: 0.61
+2025-11-06 17:55:23,464 - INFO - GET /openapi.json - Request received - payload: None
+2025-11-06 17:55:23,472 - INFO - GET /openapi.json - Response: 200 - time_ms: 8.55
+2025-11-06 18:01:49,002 - INFO - POST /staff - Request received - payload: {'name': 'string', 'position': 'string'}
+2025-11-06 18:03:28,956 - INFO - POST /staff - Response: 400 - time_ms: 99954.32
+2025-11-06 18:04:02,918 - INFO - POST /staff - Request received - payload: {'name': 'John Smith', 'email': 'john@example.com', 'role': 'Librarian'}
+2025-11-06 18:05:42,870 - INFO - POST /staff - Response: 400 - time_ms: 99952.22
+2025-11-06 18:07:43,680 - INFO - GET /staff - Request received - payload: None
+2025-11-06 18:07:43,683 - INFO - GET /staff - Items retrieved: 0
+2025-11-06 18:07:43,683 - INFO - GET /staff - Response: 200 - time_ms: 2.99

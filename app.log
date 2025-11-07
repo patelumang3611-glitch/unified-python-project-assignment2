@@ -1,0 +1,4 @@
+2025-11-07 18:18:29,410 - INFO - GET / - Request received
+2025-11-07 18:18:29,412 - INFO - GET / - Response: 200 (1.59ms)
+2025-11-07 18:18:37,873 - INFO - GET /health - Request received
+2025-11-07 18:18:37,874 - INFO - GET /health - Response: 200 (0.86ms)
